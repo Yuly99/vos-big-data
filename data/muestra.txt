@@ -1,0 +1,1 @@
+Aquí se puede almacenar una muestra de los datos usados en el proyecto, como archivos CSV de ejemplo.
