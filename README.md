@@ -51,3 +51,14 @@ Este script representa el flujo de:
 
 ## Estado actual
 El repositorio contiene la estructura base, la documentación principal y el script inicial del proyecto.
+
+## Evidencias del proyecto
+
+### Instancia EC2
+![EC2](images/ec2.png)
+
+### Bucket S3
+![S3](images/s3.png)
+
+### Resultados finales
+[📄 Ver documento final](images/Final.pdf)
