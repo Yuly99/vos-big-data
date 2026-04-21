@@ -51,9 +51,3 @@ Este script representa el flujo de:
 
 ## Estado actual
 El repositorio contiene la estructura base, la documentación principal y el script inicial del proyecto.
-
-## Próximos pasos
-- Subir resultados reales del análisis
-- Agregar capturas de AWS
-- Incorporar datasets de muestra
-- Ajustar el script con la versión final del proyecto
