@@ -16,7 +16,3 @@ En la instancia se instalaron herramientas como:
 
 ## 4. Subida de archivos
 Los datasets se subieron al bucket usando AWS CLI.
-
-Ejemplo:
-```bash
-aws s3 cp archivo.csv s3://bigdata-smartphones-yuly/
