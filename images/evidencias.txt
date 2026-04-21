@@ -1,4 +1,3 @@
 - Capturas de la instancia EC2
 - Capturas del bucket S3
 - Resultados del análisis
-- Ejecución del script
