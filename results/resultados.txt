@@ -1,0 +1,7 @@
+Aquí se almacenarán los resultados generados por el análisis de datos del proyecto Big Data en AWS.
+
+Resultados esperados:
+- Ventas por marca
+- Ventas por ciudad
+- Ventas por año
+- Promedio de especificaciones
